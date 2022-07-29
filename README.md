@@ -1,7 +1,7 @@
 # Automatic-3D-Segmentation-of-Liver-Blood-Vessels-Using-Deep-Learning
 Automatic 3D Segmentation of Liver Blood Vessels Using Deep Learning.
-Input: 3D NIfTI image
-Output: 3D NIfTI image
+- Input: 3D NIfTI image
+- Output: 3D NIfTI image
 
 ## Graphical User Interface (GUI)
 The GUI was built using tkinter & pyinstaller. 
