@@ -24,7 +24,7 @@ The GUI is meant to be the practical application of this research and is targete
 8. Open the "dist" folder and "GUI" folder. Then run the "GUI" executable file to use the GUI program.
 
 ## Dataset
-The orginal Liver CT scans dataset were publicly available dataset from IRCAD: https://www.ircad.fr/
+The orginal Liver CT scans dataset were obtained from IRCAD: https://www.ircad.fr/
 
 ## How to use
 1. Open "Liver Segmentation" folder.
