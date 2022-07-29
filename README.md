@@ -22,3 +22,10 @@ The GUI is meant to be the practical application of this research and is targete
 6. Enter and run this code in the terminal: pyinstaller --onedir -w GUI.py
 7. You may delete the newly generated "build" folder & "GUI.spec" file.
 8. Open the "dist" folder and "GUI" folder. Then run the "GUI" executable file to use the GUI program.
+
+## Dataset
+The orginal Liver CT scans dataset were publicly available dataset from IRCAD: https://www.ircad.fr/
+
+## How to use
+1. Open "Liver Segmentation" folder.
+2. Open "DeepVesselNet-Liver(working).ipynb" and follow all the instructions.
