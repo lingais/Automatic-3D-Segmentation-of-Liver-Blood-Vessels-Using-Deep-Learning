@@ -31,3 +31,7 @@ The orginal Liver CT scans dataset were obtained from IRCAD: https://www.ircad.f
 ## How to use
 1. Open "Liver Segmentation" folder.
 2. Open "DeepVesselNet-Liver(working).ipynb" and follow all the instructions.
+
+## DeepVesselNet Credits
+The original DeepVesselNet for brain blood vessels was from:
+- giesekow: https://github.com/giesekow/deepvesselnet\
